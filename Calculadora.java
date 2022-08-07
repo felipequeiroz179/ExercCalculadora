@@ -1,6 +1,6 @@
-package Calculadora;
+package Calculadoraa;
 
-public class Calculadora {
+public class Calculadoraa {
    double numeroA;
    double numeroB;
    double adicao;
