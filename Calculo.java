@@ -8,10 +8,10 @@ public class Calculo {
 		Calculadora Calculo = new Calculadora();
 		double numeroA,numeroB;
 		
-		System.out.println("Digite o primeiro valor:");
+		System.out.println("Digite o primeiro valor1:");
 		numeroA = in.nextDouble();
 		
-		System.out.println("Digite o segundo valor1:");
+		System.out.println("Digite o segundo valor2:");
 		numeroB = in.nextDouble();
 		
 		Calculo.numeroA = numeroA;
