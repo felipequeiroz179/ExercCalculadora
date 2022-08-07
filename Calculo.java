@@ -11,7 +11,7 @@ public class Calculo {
 		System.out.println("Digite o primeiro valor:");
 		numeroA = in.nextDouble();
 		
-		System.out.println("Digite o segundo valor:");
+		System.out.println("Digite o segundo valor1:");
 		numeroB = in.nextDouble();
 		
 		Calculo.numeroA = numeroA;
